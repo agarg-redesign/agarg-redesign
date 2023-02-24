@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agarg-redesign
 - 👀 I’m interested in web-application and cloud
-- 🌱 I’m currently learning India
+- 🌱 I’m currently in India
 - 📫 How to reach me agarg@redesign-group.com
 
 <!---
